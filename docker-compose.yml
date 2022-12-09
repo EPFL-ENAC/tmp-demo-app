@@ -1,0 +1,6 @@
+services:
+  frontend:
+    build: ./hello-vue3
+    restart: unless-stopped
+    ports:
+      - "80:80"
