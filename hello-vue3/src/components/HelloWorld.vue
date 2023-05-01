@@ -12,7 +12,9 @@ defineProps<{
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
       <br />
-      Happy Christmas with Contiuous Deploy : )
+      Today is the Contiuous Deploy demo day !
+      <br />
+      : )
     </h3>
   </div>
 </template>
@@ -34,6 +36,7 @@ h3 {
 }
 
 @media (min-width: 1024px) {
+
   .greetings h1,
   .greetings h3 {
     text-align: left;
