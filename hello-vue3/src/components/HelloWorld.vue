@@ -12,9 +12,7 @@ defineProps<{
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
       <br />
-      Today is the Contiuous Deploy demo day !
-      <br />
-      : )
+      Welcome to DEMO ! : )
     </h3>
   </div>
 </template>
