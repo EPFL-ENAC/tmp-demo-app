@@ -11,3 +11,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: sbancal/play-with-gh-action@main
+        with:
+          ENAC_IT4R_CD_environment: "test"
