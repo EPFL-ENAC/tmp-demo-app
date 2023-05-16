@@ -12,7 +12,7 @@ defineProps<{
       <a href="https://vitejs.dev/" target="_blank" rel="noopener">Vite</a> +
       <a href="https://vuejs.org/" target="_blank" rel="noopener">Vue 3</a>.
       <br />
-      CD tested on 2023-05-11 11:25
+      CD tested on 2023-05-16 14-30
     </h3>
   </div>
 </template>
